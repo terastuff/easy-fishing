@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "easy-fishing",
+    "author": "KTC",
+    "description": "Makes so that every fish has the same difficulty to catch as a Grade 1 fish.",
+    "version": "1.0",
+    "servers": ["https://raw.githubusercontent.com/terastuff/easy-fishing/master/"]
+}
