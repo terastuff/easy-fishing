@@ -1,4 +1,10 @@
-const { Readable } = require('tera-data-parser/lib/protocol/stream');
+let Readable;
+
+try {
+    ({Readable} = require('tera-data-parser/lib/protocol/stream')); 
+} catch (e) {
+    ({Readable} = require('tera-data-parser/protocol/stream'));
+}
 
 module.exports = function EasyFishing(mod) {
     const command = mod.command || mod.require.command;
