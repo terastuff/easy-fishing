@@ -27,7 +27,7 @@ module.exports = function EasyFishing(mod) {
         const stream = new Readable(data);
         stream.position = 8;
         if (stream.uint64() === gameId) {
-            data[16] = 1;
+            data[16] = 0;
             return true;
         }
     });
