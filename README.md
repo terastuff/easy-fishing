@@ -9,3 +9,4 @@ If you want other regions, you will need to get the opcode required for that reg
 If you wish to have the paid version, you can buy the nextgen easy-fishing that includes automatic fishing, auto dismantling fishes and auto crafting bait for endless fishing. For more information you can add me on discord: KTC#9654
 
 Demo: https://www.youtube.com/watch?v=ramfM8o_VhQ
+Purchase Link: https://ktctera.wixsite.com/easy-fishing
