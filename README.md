@@ -6,4 +6,4 @@ For NA/EU/SEA add the files protocol.341697.map, protocol.341698.map and protoco
 If you want other regions, you will need to get the opcode required for that region.
 
 # Auto Fishing
-If you wish to have the paid version, you can buy the nextgen easy-fishing that includes automatic fishing and soon will also include auto dismantling fishes and auto crafting bait for endless fishing. For more information you can add me on discord: KTC#9654
+If you wish to have the paid version, you can buy the nextgen easy-fishing that includes automatic fishing, auto dismantling fishes and auto crafting bait for endless fishing. For more information you can add me on discord: KTC#9654
